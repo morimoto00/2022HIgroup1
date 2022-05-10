@@ -15,6 +15,4 @@ https://docs.google.com/spreadsheets/d/1nJsX3d8TEKI8Hd0quDossT4ma9m3n3WA8u4DtP2q
 5/6(金)の進捗
 ・カスタマージャーニーから問いの設定(画像①)-50%
 ・カスタマージャーニーマップのブラッシュアップ（画像②）-90%
-![511-2](https://user-images.githubusercontent.com/88567474/167686526-f2d5be2b-7cef-4b4e-ad94-9b209336c488.jpg)
-![511-1](https://user-images.githubusercontent.com/88567474/167686531-5147f227-2646-4b34-b13d-1da4de427def.jpg)
-
+![koubou_basyo](https://user-images.githubusercontent.com/88567474/167686839-f01f498f-e193-469a-8197-9ae95664755e.png)
